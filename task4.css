@@ -1,0 +1,86 @@
+/*......section one.....*/
+
+
+body {
+    font-family: sans-serif;
+}
+
+.to {
+
+    margin: 50px;
+
+}
+
+article {
+
+
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 20px;
+
+}
+
+header {  
+display: flex;
+justify-content: space-around;
+margin: 40px;
+padding: 10px;
+}
+ 
+
+/*......section two.....*/
+
+.sec2{
+    margin-top: 100px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+
+}
+
+.sec2 .zx{
+margin-left: 80px;
+}
+
+.sec2 .h1 .qw{
+    font-size: 50px;
+}
+.sec2 .h1 .as{
+    font-size: 25px;
+}
+.sec2 .div{
+    color: white;
+}
+/*......section three.....*/
+
+.h2 .mmm{
+    position: relative;
+    top: 100px;
+    right: 25px;
+
+
+}
+
+.sec3{
+background-color: whitesmoke;
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.sec3 .div .zx {
+margin-top: 100px;
+margin-bottom: 50px;
+
+
+
+}
+
+
+.more {
+
+    border: 2px black solid;
+padding: 10px;
+}
